@@ -1,4 +1,4 @@
-# 📌 README: Image Generation, Evaluation, Modification & Storage using Amazon Titan & Nova Models on Bedrock
+# 📌 Image Generation, Evaluation, Modification & Storage using Amazon Titan & Nova Models on Bedrock
 
 ## 🚀 Project Overview
 This project demonstrates a complete workflow with two distinct pipelines:
